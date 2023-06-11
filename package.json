@@ -1,0 +1,26 @@
+{
+  "name": "ts-coroutines",
+  "version": "1.0.0",
+  "description": "mimic kotlin coroutines behaviour in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josharsh/ts-coroutines.git"
+  },
+  "keywords": [
+    "typescript",
+    "kotlin",
+    "async",
+    "coroutines",
+    "concurrency"
+  ],
+  "author": "josharsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josharsh/ts-coroutines/issues"
+  },
+  "homepage": "https://github.com/josharsh/ts-coroutines#readme"
+}

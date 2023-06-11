@@ -1,6 +1,6 @@
 {
   "name": "ts-coroutines",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mimic kotlin coroutines behaviour in typescript",
   "main": "./lib/index.js",
   "types": "src/index.ts",

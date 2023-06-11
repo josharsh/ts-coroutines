@@ -4,17 +4,17 @@ This package provides a `coroutine` function that allows you to write asynchrono
 
 ## Installation
 
-You can install `typescript-coroutines` with npm:
+You can install `ts-coroutines` with npm:
 
 ```bash
-npm install typescript-coroutines
+npm i ts-coroutines
 ```
 
 ## Usage
-First, import the coroutine function from the typescript-coroutines package:
+First, import the coroutine function from the ts-coroutines package:
 
 ```typescript
-import { coroutine } from 'typescript-coroutines';
+import { coroutine } from 'ts-coroutines';
 ```
 Then, create a generator function where yield is used to pause and resume the execution:
 

@@ -2,7 +2,8 @@
   "name": "ts-coroutines",
   "version": "1.0.0",
   "description": "mimic kotlin coroutines behaviour in typescript",
-  "main": "index.js",
+  "main": "./lib/index.js",
+  "types": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/josharsh/ts-coroutines/issues"
   },
-  "homepage": "https://github.com/josharsh/ts-coroutines#readme"
+  "homepage": "https://github.com/josharsh/ts-coroutines#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
 }
